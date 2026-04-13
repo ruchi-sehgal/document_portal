@@ -33,7 +33,7 @@ git commit -m "<write your commit message>"
 git push
 
 # Cloning the repository
-git clone https://github.com/sunnysavita10/document_portal.git
+git clone <REPO LINK>
 
 ###Minimum Requirements for the Project
 
